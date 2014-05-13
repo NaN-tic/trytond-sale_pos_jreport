@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- This file is part sale_pos_jreport module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full copyright notices and license terms. -->
+<tryton>
+    <data>
+        <record model="ir.action.report" id="sale_pos.report_sale_ticket">
+            <field name="name">Sale Ticket</field>
+            <field name="model">sale.sale</field>
+            <field name="report_name">sale.sale_ticket</field>
+            <field name="report">sale_pos_jreport/sale_pos_ticket.jrxml</field>
+            <field name="style"></field>
+        </record>
+    </data>
+</tryton>
+
+

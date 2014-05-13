@@ -1,0 +1,67 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Description"
+msgstr "Descripción"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Payment Term"
+msgstr "Plazos de pago"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Price"
+msgstr "Precio"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Qty"
+msgstr "Cant."
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Quotation"
+msgstr "Presupuesto"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Sale Order"
+msgstr "Pedido venta"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Tax"
+msgstr "Impuestos"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Untaxed"
+msgstr "Base imponible"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Simplified Invoice"
+msgstr "Factura simplificada"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Salesman"
+msgstr "Atendido por"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Paid Amount"
+msgstr "Pagado"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Residual Amount"
+msgstr "Pendiente"
+
+msgctxt "jasper:sale.sale_ticket:"
+msgid "Ticket"
+msgstr "Tiquet"
