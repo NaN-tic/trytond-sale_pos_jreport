@@ -56,8 +56,8 @@
 	<field name="party-name" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/party-party/addresses-addresses/name-name]]></fieldDescription>
 	</field>
-	<field name="party-full_address" class="java.lang.String">
-		<fieldDescription><![CDATA[/data/record/shipment_address-shipment_address/full_address-full_address]]></fieldDescription>
+	<field name="party-full_address_lang" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/shipment_address-shipment_address/full_address_lang-full_address_lang]]></fieldDescription>
 	</field>
 	<field name="party-street" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/party-party/addresses-addresses/street-street]]></fieldDescription>
@@ -86,8 +86,8 @@
 	<field name="payment_type-note" class="java.lang.Object">
 		<fieldDescription><![CDATA[/data/record/payment_type-payment_type/note-note]]></fieldDescription>
 	</field>
-	<field name="shippment-full_address" class="java.lang.String">
-		<fieldDescription><![CDATA[/data/record/party-party/addresses-addresses/full_address-full_address]]></fieldDescription>
+	<field name="shippment-full_address_lang" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/party-party/addresses-addresses/full_address_lang-full_address_lang]]></fieldDescription>
 	</field>
 	<field name="carrier-rec_name" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/carrier-carrier/rec_name-rec_name]]></fieldDescription>
