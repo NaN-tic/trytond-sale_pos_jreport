@@ -8,7 +8,6 @@ The COPYRIGHT file at the top level of this repository contains the full copyrig
             <field name="model">sale.sale</field>
             <field name="report_name">sale.sale_ticket</field>
             <field name="report">sale_pos_jreport/sale_pos_ticket.jrxml</field>
-            <field name="style"></field>
         </record>
     </data>
 </tryton>
