@@ -9,4 +9,4 @@ __metaclass__ = PoolMeta
 
 
 class SaleTicketReport(JasperReport):
-    __name__ = 'sale.sale_ticket'
+    __name__ = 'sale_pos.sale_ticket'
