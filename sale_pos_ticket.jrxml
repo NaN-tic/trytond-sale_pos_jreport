@@ -92,8 +92,14 @@
 	<field name="carrier-rec_name" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/carrier-carrier/rec_name-rec_name]]></fieldDescription>
 	</field>
-	<field name="reference-reference" class="java.lang.String">
+	<field name="number" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/number-number]]></fieldDescription>
+	</field>
+	<field name="reference" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/reference-reference]]></fieldDescription>
+	</field>
+	<field name="description" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/description-description]]></fieldDescription>
 	</field>
 	<field name="ticket_number-ticket_number" class="java.lang.String">
 		<fieldDescription><![CDATA[/data/record/ticket_number-ticket_number]]></fieldDescription>
@@ -216,7 +222,7 @@
 					<textElement textAlignment="Left">
 						<font size="10" isBold="true"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$F{ticket_number-ticket_number} ? tr($V{L},"Simplified Invoice")+" "+$F{ticket_number-ticket_number} : tr($V{L},"Ticket")+" "+$F{reference-reference}]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$F{ticket_number-ticket_number} ? tr($V{L},"Simplified Invoice")+" "+$F{ticket_number-ticket_number} : tr($V{L},"Ticket")+" "+$F{number}]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="0" y="22" width="195" height="12" uuid="26e6798f-861a-4c79-87d9-3a4c69a4afb3">
